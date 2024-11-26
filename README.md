@@ -160,11 +160,3 @@ Find a linear ordering of elements with dependencies.
 - Graph problems without cycles.  
 **Example Problems:**  
 - Task Scheduling (Medium)  
-
----
-
-## **How to Use This Repository**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/14-coding-patterns.git
-   cd 14-coding-patterns
